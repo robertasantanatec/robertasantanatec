@@ -1,4 +1,5 @@
-<img src=https://i.pinimg.com/originals/07/e4/c4/07e4c452e620e576ad0a357e4bfc2880.gif>
+<img src="https://i.pinimg.com/originals/07/e4/c4/07e4c452e620e576ad0a357e4bfc2880.gif">
+
 # [Roberta Santana]
 Eu sou <strong>Roberta Santana</strong>, <strong>Sou estudante de Análise e Desenvolvimento de Sistemas,Faculdade Senac</strong> 👨🏻‍💻 
 
